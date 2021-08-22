@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{DFCA9ECC-EBEC-41D8-8E69-5C2710280C93}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApp/Pages/Index.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApp/Pages/Counter.razor">
     <Files>
-      <File FileName="ToDoApp/Pages/Index.razor" Line="1" Column="1" />
+      <File FileName="ToDoApp/Pages/Index.razor" Line="10" Column="1" />
+      <File FileName="ToDoApp/Pages/Counter.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +10,7 @@
           <Node name="ToDoApp" expanded="True">
             <Node name="ToDoApp" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Index.razor" selected="True" />
+                <Node name="Counter.razor" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -18,7 +19,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ToDoApp FirstBuild="True" PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.ItemProperties.ToDoApp PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
