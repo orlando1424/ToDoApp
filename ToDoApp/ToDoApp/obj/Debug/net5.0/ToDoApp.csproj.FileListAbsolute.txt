@@ -630,3 +630,5 @@
 /Users/orlandolopez/Documents/Repos/ToDoApp/ToDoApp/ToDoApp/ToDoApp/obj/Debug/net5.0/ToDoApp.dll
 /Users/orlandolopez/Documents/Repos/ToDoApp/ToDoApp/ToDoApp/ToDoApp/obj/Debug/net5.0/ref/ToDoApp.dll
 /Users/orlandolopez/Documents/Repos/ToDoApp/ToDoApp/ToDoApp/ToDoApp/obj/Debug/net5.0/ToDoApp.pdb
+/Users/orlandolopez/Documents/Repos/ToDoApp/ToDoApp/ToDoApp/ToDoApp/obj/Debug/net5.0/RazorDeclaration/Pages/ToDo.razor.g.cs
+/Users/orlandolopez/Documents/Repos/ToDoApp/ToDoApp/ToDoApp/ToDoApp/obj/Debug/net5.0/Razor/Pages/ToDo.razor.g.cs
