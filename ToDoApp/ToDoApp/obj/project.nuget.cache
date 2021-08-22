@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YVWAemZeoWSuKGtnwI0zBVp7QQScOm2/qcFnN+KRjKFHvOsvmN63mrlDXrW4JcLfnda8CDXVWtEGoREBQ097pA==",
+  "dgSpecHash": "NMLyxo8ZGnx+2M8J40rFubpzBE2oQ2CZAoIkywcZ+9TG/Kw+kgHSzAw/e12gLJM+t6idwVGIeO1jEHh1XXCT5w==",
   "success": true,
   "projectFilePath": "D:\\Repos\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,7 @@
     "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.9\\microsoft.jsinterop.webassembly.5.0.9.nupkg.sha512",
     "C:\\Users\\Orlando\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Orlando\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.7\\microsoft.netcore.app.runtime.browser-wasm.5.0.7.nupkg.sha512"
+    "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.9\\microsoft.netcore.app.runtime.browser-wasm.5.0.9.nupkg.sha512"
   ],
   "logs": []
 }
