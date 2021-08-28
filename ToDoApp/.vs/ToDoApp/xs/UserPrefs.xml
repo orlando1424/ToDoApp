@@ -1,18 +1,20 @@
 ﻿<Properties StartupConfiguration="{DFCA9ECC-EBEC-41D8-8E69-5C2710280C93}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApp/TodoItem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApp/Pages/ToDo.razor">
     <Files>
       <File FileName="ToDoApp/Pages/Index.razor" Line="10" Column="1" />
       <File FileName="ToDoApp/Pages/Counter.razor" Line="17" Column="1" />
-      <File FileName="ToDoApp/Pages/ToDo.razor" Line="9" Column="1" />
+      <File FileName="ToDoApp/Pages/ToDo.razor" Line="16" Column="1" />
       <File FileName="ToDoApp/Shared/NavMenu.razor" Line="28" Column="1" />
-      <File FileName="ToDoApp/TodoItem.cs" Line="6" Column="10" />
+      <File FileName="ToDoApp/TodoItem.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ToDoApp" expanded="True">
             <Node name="ToDoApp" expanded="True">
-              <Node name="TodoItem.cs" selected="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="ToDo.razor" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
