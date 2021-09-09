@@ -3,7 +3,7 @@
     <Files>
       <File FileName="ToDoApp/Pages/Index.razor" Line="10" Column="1" />
       <File FileName="ToDoApp/Pages/Counter.razor" Line="17" Column="1" />
-      <File FileName="ToDoApp/Pages/ToDo.razor" Line="16" Column="1" />
+      <File FileName="ToDoApp/Pages/ToDo.razor" Line="18" Column="1" />
       <File FileName="ToDoApp/Shared/NavMenu.razor" Line="28" Column="1" />
       <File FileName="ToDoApp/TodoItem.cs" Line="10" Column="1" />
     </Files>
